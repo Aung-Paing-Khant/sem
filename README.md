@@ -7,5 +7,5 @@ Software Engineering Methods
 
 # DevOps
 ![GitHub Workflow Status (branch)](
-https://img.shields.io/github/workflow/status/Aung-Paing-Khant/sem/A%20workflow%20for%20my%20Hello%20World%20App/main?style=flat-square
+https://img.shields.io/github/workflow/status/Aung-Paing-Khant/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square
 )
