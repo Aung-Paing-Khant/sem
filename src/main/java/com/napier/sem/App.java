@@ -81,6 +81,7 @@ public class App {
             // Create string for SQL statement
             String strSelect =
                     "SELECT emp_no, first_name, last_name FROM employees WHERE emp_no = " + ID;
+            System.out.println("DEBUG SQL -> " + strSelect);
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
             // Return new employee if valid.
