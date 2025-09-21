@@ -1,12 +1,22 @@
 version: '3'
 services:
-  # Application Dockerfile is in same folder which is .
   app:
     build: .
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_USER: root
+      DB_PASSWORD: example
+      DB_NAME: employees
 
-  # db is is db folder
   db:
-    build: db/.
+    image: mysql:8.0
     restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: employees
+      MYSQL_ROOT_HOST: "%"   # allow root to connect from any host
     ports:
       - "33060:3306"
