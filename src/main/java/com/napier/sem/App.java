@@ -41,10 +41,10 @@ public class App {
                 System.out.println("Successfully connected");
                 break;
             }
-            catch (SQLException sql)
+            catch (SQLException sqle)
             {
                 System.out.println("Failed to connect to database attempt " + i);
-                System.out.println(sql.getMessage());
+                System.out.println(sqle.getMessage());
             }
             catch (InterruptedException ie)
             {
@@ -80,8 +80,9 @@ public class App {
             Statement stmt = con.createStatement();
             // Create string for SQL statement
             String strSelect =
-                    "SELECT emp_no, first_name, last_name FROM employees WHERE emp_no = " + ID;
-            System.out.println("DEBUG SQL -> " + strSelect);
+                    "SELECT emp_no, first_name, last_name "
+                            + "FROM employees "
+                            + "WHERE emp_no = " + ID;
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
             // Return new employee if valid.
