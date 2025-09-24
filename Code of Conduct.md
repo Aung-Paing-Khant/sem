@@ -26,21 +26,56 @@ Each member is responsible for completing assigned tasks within agreed timelines
 </p>
 
 ### Responsibilities
+* **Product Owner**: Define and communicate the product vision, set priorities in the product backlog, and ensure alignment between business goals and the development team’s work.
+* **Scrum Master**: Facilitate fair communication, mediate conflicts, and ensure that everyone’s contributions are valued.
 * **Team Members**: Follow this Code of Conduct at all times. Report violations immediately and respectfully.
-* **Team Lead/Scrum Master**: Facilitate fair communication, mediate conflicts, and ensure that everyone’s contributions are valued.
 * **All Contributors**: Hold each other accountable and remind teammates of these standards when necessary.
 
 ### Reporting and Accountability
-* Concerns should be raised respectfully with the team or lead.
-* Feedback must be constructive, focusing on solutions.
-* All members are responsible for holding each other accountable.
+* **Raising Concerns**: <span align="justify"> Concerns should be raised respectfully with the team, Scrum Master, or Product Owner, ensuring open and transparent communication. </span>
+* **Constructive Feedback**: <span align="justify"> Feedback must always be constructive, focusing on solutions and continuous improvement rather than blame. </span>
+* **Collective Responsibility**: <span align="justify"> All members are responsible for holding each other accountable and upholding this Code of Conduct. </span>
+* **Confidentiality and Respect**: <span align="justify"> Sensitive issues should be handled with discretion, ensuring that the dignity and privacy of all members are respected. </span>
+* **Escalatioin Process**: <span align="justify"> If issues cannot be resolved within the team, they should be escalated to the Scrum Master or Product Owner for mediation. </span>
+* **Commitment to Improvement**: <span align="justify"> Reports of misconduct should be seen as opportunities for learning and growth, not as punishment, reinforcing a culture of trust and responsibility. </span>
 
 ### Consequences for violations
 To maintain fairness and responsibility, the following steps may be applied:
-* **Friendly Reminder**: a teammate points out the issue.
-* **Verbal/Written Warning**: if behavior/workflow issues continue.
-* **Friendly Fine** – e.g., small symbolic penalty (such as bringing snacks, contributing extra documentation, or another agreed token “fine”).
-* **Task Reassignment**: repeated failure to meet commitments may result in tasks being reassigned to ensure project progress.
+1. **Friendly Reminder**
+    * A gentle reminder from any teammate when a minor issue occurs (e.g., slightly late submission, small mistake).
+    * Intended for first-time or unintentional issues.
+    * Example: "Please remember to push your code before the deadline next time."
+2. **Verbal/Written Warning**
+    * Given if the same issue is repeated or if behavior/workflow negatively impacts the team.
+    * Documented in meeting notes for transparency.
+    * Covers:
+        * Lateness to Meetings: more than twice without valid reason may lead to a warning.
+        * Missed Meetings: unexplained absence may reduce participation marks and trigger a warning.
+        * Behavioral Issues: disrespect, ignoring communication, or not following agreements.
+
+3. **Friendly Fine**
+    * A symbolic penalty to maintain accountability in a lighthearted but fair way.
+    * Examples:
+        * Bringing snacks or drinks to the next meeting.
+        * Preparing extra documentation or slides.
+        * Taking an additional minor supporting task.
+    * Applied in cases such as:
+        * Repeated lateness to meetings.
+        * Low-effort work that affects progress.
+        * Minor but recurring behavior issues.
+
+4. **Escalation for Serious or Repeated Violations**
+    * Task Reassignment:
+        * If a member repeatedly fails to deliver on time, their task will be reassigned to another teammate.
+        * Ensures that project progress is not delayed.
+    * Mark Contribution Transfer:
+        * The marks/credits for a reassigned task will go to the teammate who successfully completes it.
+        * The original member will receive reduced or no marks for that portion, depending on their effort (0–50%).
+    * Meeting-Related Penalties:
+        * Continuous lateness or absence without reason may lead to a deduction of contribution marks in addition to reassigned responsibilities.
+    * Behavioral Issues:
+        * Repeated negative or uncooperative behavior (e.g., lack of communication, disrupting meetings, disrespecting teammates) may lead to reduced contribution marks.
+
 
 ### Acknowledgement
 <p align="justify">
